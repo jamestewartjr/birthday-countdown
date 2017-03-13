@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import logo from './the_dot_logo.png';
 import './App.css';
 
+// Access all components from `muicss/react` module
+import { Appbar, Button, Col, Container, Divider, Form, Input, Panel, Row } from 'muicss/react';
+
 class App extends Component {
   render() {
     return (
@@ -10,9 +13,16 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>The DoT Birthday Countdown App</h2>
         </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+            <Container>
+            <Form>
+               <Row>
+                  <Input value="08/04/1961" />
+                  <Input value="Barack Obama" />
+                  <Input value="Age" />
+                  <Input value="Next Birthday in ..." />
+               </Row>
+            </Form>
+            </Container>
       </div>
     );
   }
