@@ -26,7 +26,7 @@ To start the project, type the following command and go to http://localhost:3000
 | LICENSE.md                         | Describes how this software can be used by others.           |
 | .gitignore                         | Tells git to ignore files and directories.                   |
 | package.json                       | NPM dependencies.                                            |
-| README.md                          | You a currently reading it.                                  |
+| README.md                          | You are currently reading it.                                |
 
 ## List of Technologies
 
