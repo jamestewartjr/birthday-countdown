@@ -1,6 +1,6 @@
 # DOT Birthday Countdown
 
-The purpose of this project is to help members of DOT establish their skills by co-creating on a birthday countdown of significant figures.
+The purpose of this project is to be a birthday countdown of influential public persons.
 
 ## Context
 
@@ -15,18 +15,6 @@ To install packages, type the following command in your terminal:
 To start the project, type the following command and go to http://localhost:3000/ in your browser:
 
 ``` npm start ```
-
-
-## Project Structure
-
-| Name                               | Description                                                  |
-| ---------------------------------- | ------------------------------------------------------------ |
-| **public**/                        | Static assets (fonts, js, img).                              |
-| **src**/                           | Main source folder for the App.                              |
-| LICENSE.md                         | Describes how this software can be used by others.           |
-| .gitignore                         | Tells git to ignore files and directories.                   |
-| package.json                       | NPM dependencies.                                            |
-| README.md                          | You are currently reading it.                                |
 
 ## List of Technologies
 
