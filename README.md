@@ -2,6 +2,10 @@
 
 The purpose of this project is to help members of DOT establish their skills by co-creating on a birthday countdown of significant figures.
 
+## Context
+
+You will find this project useful if you have some experience with Javascript, HTML, and CSS. Previous experience with MVC frameworks or templating engines will be helpful, but is not necessary. This project will be useful for those who would like to learn/gain experience in React (frontend Javascript) and MomentJs (configuring dates).
+
 ## Installation and Setup
 
 To install packages, type the following command in your terminal:
@@ -13,7 +17,7 @@ To start the project, type the following command and go to http://localhost:3000
 ``` npm start ```
 
 
-##Project Structure
+## Project Structure
 
 | Name                               | Description                                                  |
 | ---------------------------------- | ------------------------------------------------------------ |
